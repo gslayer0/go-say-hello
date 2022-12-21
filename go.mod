@@ -1,3 +1,3 @@
-module github.com/gslyaer0/go-say-hello
+module github.com/gslayer0/go-say-hello
 
 go 1.19
